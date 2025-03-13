@@ -1,2 +1,3 @@
 public class task2 {
+
 }
